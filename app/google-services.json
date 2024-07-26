@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "466679055082",
+    "firebase_url": "https://database-connection-a25d3-default-rtdb.firebaseio.com",
+    "project_id": "database-connection-a25d3",
+    "storage_bucket": "database-connection-a25d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466679055082:android:f66409afacdf0320d80d93",
+        "android_client_info": {
+          "package_name": "com.example.databaseconnection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFzdZCjIpF4dWbs2M-PuFqa1DZHXISMiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466679055082:android:527babfe3a56ab05d80d93",
+        "android_client_info": {
+          "package_name": "com.example.uploadretriveimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFzdZCjIpF4dWbs2M-PuFqa1DZHXISMiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
